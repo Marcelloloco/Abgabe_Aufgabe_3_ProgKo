@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MPIwithOpenMP", "MPIwithOpenMP\MPIwithOpenMP.vcxproj", "{731E5FA8-83FB-4674-A7CA-5903F10E3CB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{731E5FA8-83FB-4674-A7CA-5903F10E3CB0}.Debug|x64.ActiveCfg = Debug|x64
+		{731E5FA8-83FB-4674-A7CA-5903F10E3CB0}.Debug|x64.Build.0 = Debug|x64
+		{731E5FA8-83FB-4674-A7CA-5903F10E3CB0}.Debug|x86.ActiveCfg = Debug|Win32
+		{731E5FA8-83FB-4674-A7CA-5903F10E3CB0}.Debug|x86.Build.0 = Debug|Win32
+		{731E5FA8-83FB-4674-A7CA-5903F10E3CB0}.Release|x64.ActiveCfg = Release|x64
+		{731E5FA8-83FB-4674-A7CA-5903F10E3CB0}.Release|x64.Build.0 = Release|x64
+		{731E5FA8-83FB-4674-A7CA-5903F10E3CB0}.Release|x86.ActiveCfg = Release|Win32
+		{731E5FA8-83FB-4674-A7CA-5903F10E3CB0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E5C2CD2-64F6-4933-87F5-8DB4FB552C9A}
+	EndGlobalSection
+EndGlobal

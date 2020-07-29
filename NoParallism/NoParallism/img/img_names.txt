@@ -1,0 +1,15 @@
+1.dice_micro.png
+1.harold_small.jpg
+1.kitten_small.jpg
+1.nature_small.jpeg
+2.dice_small.png
+2.harold_medium.jpg
+2.kitten_medium.jpg
+2.nature_medium.jpeg
+3.dice_medium.png
+3.harold_large.jpg
+3.kitten_large.jpg
+3.nature_large.jpeg
+4.dice_large.png
+4.kitten_huge.jpg
+4.nature_mega.jpeg
